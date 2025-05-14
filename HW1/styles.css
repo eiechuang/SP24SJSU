@@ -1,0 +1,15 @@
+p {
+    background-color: purple ;
+}
+
+#customsize{
+    margin-top: 50px;
+    height:50%;
+    width:50%;
+ 
+ }
+
+ .spacing {
+
+margin-bottom: 50px;
+ }
