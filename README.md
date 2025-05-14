@@ -1,1 +1,1 @@
-Various C projects from my operating systems class, Spring 2025
+Various C/JS/PHP projects from classes, Spring 2025
