@@ -1,0 +1,24 @@
+.secondheader{
+    text-size-adjust: 80%;
+}
+
+.bold{
+    font-weight:bold;
+    
+
+}
+
+#customsize{ 
+   width: 20%;
+   height: 30%;
+   /* this image looks fine on my laptop but not my external monitor, unsure how to fix*/
+
+}
+.tab {
+    tab-size: 24;
+    font-family: "Times New Roman", Times, serif;
+}
+.italic{
+
+    font-style: italic;
+}
