@@ -1,6 +1,1 @@
-Hello Professor/Grader,
-
-This file can be run by running HW1Resume.html in a web browser. Everything else are just external files to support the main file. Thank you for for your time. 
-
-
-
+This was a project to create my current resume with simple Javascript/CSS. A more advanced version using next/tailwind is in progress, and will hopefully be uploaded by mid May.
